@@ -6,14 +6,14 @@ module.exports = {
   theme: {
     extend: {
       colors : {
-        'body': '#17171F',
-        'selected-text': '#A3A3FF',
-        'theme': '#3F3FFF',
-        'nav':'#404053',
-        'secondary': '#9191A4',
+        'body': '#FEFEFE',
+        'selected-text': '#5b5b5b',
+        'theme': '#5b5b5b',
+        'nav':'#2B303A',
+        'secondary': '#c71e21',
         'badge': '#3F3F51',
         'input-border': '#565666',
-        'input':'#2A2A35'
+        'input':'#7C7C7C'
       },
     },
   },
