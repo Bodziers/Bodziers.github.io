@@ -15,6 +15,9 @@ module.exports = {
         'input-border': '#565666',
         'input':'#7C7C7C'
       },
+      backgroundImage: {
+        'hero-pattern': "url('/assets/images/baner-frontback.png')"
+      },
     },
   },
   plugins: [require('tw-elements/dist/plugin')],
